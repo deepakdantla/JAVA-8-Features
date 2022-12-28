@@ -1,6 +1,6 @@
 # JAVA-8-Features
 
-Contains all the java programs demonstrating Java 8 features which includes:
+# Contains all the java programs demonstrating Java 8 features which includes:
 
 1) Lambda Functions
 2) Functional Interfaces
